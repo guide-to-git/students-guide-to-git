@@ -3,7 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
----
 
 Welcome to our guide to git! An example of a code block you might encounter is below:
 
