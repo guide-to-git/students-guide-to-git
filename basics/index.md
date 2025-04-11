@@ -1,5 +1,6 @@
 ---
 title: Basics
+layout: home
 nav_order: 2
 ---
 
