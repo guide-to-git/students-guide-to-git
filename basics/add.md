@@ -6,5 +6,3 @@ layout: home
 ---
 
 Learn how to add / stage your files!
-
-----
