@@ -4,7 +4,7 @@ Welcome to our Guide to Git! This repo was created in Spring 2025. Read below fo
 
 ## Webpage
 
-Visit our website at [https://guide-to-git.github.io/students-guide-to-git/]([url](https://guide-to-git.github.io/students-guide-to-git/)) to read about Git and various use cases. Our guide is 
+Visit our website [here](https://guide-to-git.github.io/students-guide-to-git/) to read about Git and various use cases. Our guide is 
 designed for beginners, especially students working on projects for the first time. 
 
 ### Sections
